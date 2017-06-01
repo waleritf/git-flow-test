@@ -5,7 +5,6 @@ application up and running.
 
 Things you may want to cover:
 
-HAHAHAHAHAHA
 I'm a batman
 
 You can pass project id to git hook to control commit messages
